@@ -12,7 +12,7 @@ O NaturaHub segue uma arquitetura **cliente-servidor desacoplada**, com frontend
 │                     │                               │                          │
 └─────────────────────┘                               └──────────┬───────────────┘
         │                                                        │
-   Vercel                                              Railway / Render
+      Vercel                                              Railway / Render
                                                                  │
                                                     ┌────────────▼───────────────┐
                                                     │                            │
