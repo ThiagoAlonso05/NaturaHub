@@ -5,7 +5,7 @@
 O NaturaHub segue uma arquitetura **cliente-servidor desacoplada**, com frontend e backend independentes comunicando-se via REST API.
 
 ```
-┌─────────────────────┐          HTTPS/JSON          ┌──────────────────────────┐
+┌─────────────────────┐          HTTPS/JSON           ┌──────────────────────────┐
 │                     │ ─────────────────────────────>│                          │
 │   React + Vite      │                               │   ASP.NET Core Web API   │
 │   (Frontend SPA)    │ <─────────────────────────────│   (.NET 9)               │
