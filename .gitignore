@@ -1,0 +1,46 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.userosscache
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.nupkg
+*.snupkg
+*.egg
+appsettings.Development.json
+appsettings.Local.json
+
+## Secrets / Environment
+.env
+.env.local
+.env.*.local
+*.pfx
+*.p12
+
+## Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+
+## IDE
+.vscode/settings.json
+.idea/
+*.DS_Store
+Thumbs.db
+
+## Logs
+logs/
+*.log
+npm-debug.log*
+
+## Build
+build/
+out/
