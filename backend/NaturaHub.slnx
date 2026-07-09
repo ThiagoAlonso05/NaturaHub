@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NaturaHub.API/NaturaHub.API.csproj" />
+  <Project Path="NaturaHub.Application/NaturaHub.Application.csproj" />
+  <Project Path="NaturaHub.Domain/NaturaHub.Domain.csproj" />
+  <Project Path="NaturaHub.Infrastructure/NaturaHub.Infrastructure.csproj" />
+</Solution>
