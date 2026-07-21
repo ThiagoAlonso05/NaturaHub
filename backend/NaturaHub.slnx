@@ -3,4 +3,5 @@
   <Project Path="NaturaHub.Application/NaturaHub.Application.csproj" />
   <Project Path="NaturaHub.Domain/NaturaHub.Domain.csproj" />
   <Project Path="NaturaHub.Infrastructure/NaturaHub.Infrastructure.csproj" />
+  <Project Path="NaturaHub.UnitTests/NaturaHub.UnitTests.csproj" />
 </Solution>
